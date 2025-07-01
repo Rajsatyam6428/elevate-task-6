@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,State,City,amount,product_id
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,1935.25,63
+B-25993,03-02-2018,Madhav,Delhi,Delhi,4758.5,17
+B-25973,24-01-2018,Madan Mohan,Uttar Pradesh,Mathura,3686.77,73
+B-25923,27-12-2018,Gopal,Maharashtra,Mumbai,3033.43,33
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,864.49,84
+B-25967,21-01-2018,Sudevi,Uttar Pradesh,Prayagraj,864.37,77
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,384.61,92
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,4344.26,29
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,3045.46,13
+B-25602,01-04-2018,Vrinda,Maharashtra,Pune,3569.56,46
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,200.86,35
+B-25969,21-01-2018,Shreyshi,Gujarat,Surat,4852.56,6
+B-26099,30-03-2018,Bhishm,Maharashtra,Mumbai,4178.97,82
+B-25997,04-02-2018,Yogesh,Maharashtra,Pune,1140.46,69
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,990.94,47
+B-25761,25-08-2018,Madhav,Uttar Pradesh,Mathura,998.68,25
+B-25887,01-12-2018,Vishakha,Uttar Pradesh,Prayagraj,1590.79,66
+B-25823,18-10-2018,Rohan,Maharashtra,Mumbai,2671.31,10
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,2216.53,56
+B-25862,15-11-2018,Amol,Bihar,Patna,1527.02,30
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,3098.08,5
+B-25786,19-09-2018,Madan Mohan,Uttar Pradesh,Mathura,783.52,33
+B-25686,11-06-2018,Pooja,Himachal Pradesh,Simla,1531.51,65
+B-26022,18-02-2018,Shrichand,Punjab,Chandigarh,1895.17,18
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,2334.74,96
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,3947.36,49
+B-25902,10-12-2018,Ishpreet,Maharashtra,Mumbai,1078.4,11
+B-25935,04-01-2018,Sudhir,Nagaland,Kohima,2619.75,85
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,3002.83,26
+B-25639,27-04-2018,Lisha,Madhya Pradesh,Bhopal,327.61,63
+B-25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,3076.97,89
+B-25909,13-12-2018,Sujay,Maharashtra,Pune,935.57,86
+B-25910,14-12-2018,Jay,Delhi,Delhi,418.75,59
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,4749.54,27
+B-25613,12-04-2018,Mohan,Haryana,Chandigarh,4831.6,49
+B-25919,23-12-2018,Neha,Rajasthan,Udaipur,4061.15,77
+B-25768,01-09-2018,Shreyoshe,Karnataka,Bangalore,1592.61,33
+B-25629,24-04-2018,Hemant,Kerala ,Thiruvananthapuram,578.59,98
+B-25729,22-07-2018,Madhulika,Madhya Pradesh,Bhopal,3452.74,99
+B-25943,09-01-2018,Shardul,Gujarat,Ahmedabad,2256.75,1
+B-25842,02-11-2018,Sheetal,Maharashtra,Pune,697.99,21
+B-26073,21-03-2018,Pournamasi,Madhya Pradesh,Indore,2526.37,55
+B-25778,11-09-2018,Surabhi,Maharashtra,Mumbai,268.5,6
+B-25717,12-07-2018,Manshul,Uttar Pradesh,Lucknow,4555.67,92
+B-26085,26-03-2018,Shrichand,Punjab,Chandigarh,1368.02,81
+B-26048,04-03-2018,Parth,Maharashtra,Pune,3346.36,69
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,1627.38,95
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,2648.33,5
+B-25608,08-04-2018,Aarushi,Tamil Nadu,Chennai,2778.88,3
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,1005.79,53
+B-25779,12-09-2018,Savi,Maharashtra,Pune,4850.96,23
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,3898.15,53
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,4703.54,37
+B-25653,08-05-2018,Farah,Nagaland,Kohima,4484.65,74
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,3029.71,74
+B-25762,26-08-2018,Anudeep,Madhya Pradesh,Indore,4617.18,83
+B-25995,04-02-2018,Yohann,Delhi,Delhi,533.61,17
+B-25929,02-01-2018,Girase,Kerala ,Thiruvananthapuram,1060.32,85
+B-26006,09-02-2018,Arpita,Karnataka,Bangalore,321.61,78
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,1694.12,73
+B-25836,29-10-2018,Arti,Maharashtra,Pune,2004.52,1
+B-25601,01-04-2018,Bharat,Gujarat,Ahmedabad,1429.61,51
+B-25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,4160.81,45
+B-26028,20-02-2018,Manju,Andhra Pradesh,Hyderabad,1848.09,77
+B-25964,20-01-2018,Oshin,Maharashtra,Pune,1476.58,4
+B-25676,01-06-2018,Chandni,Rajasthan,Jaipur,2759.21,62
+B-25839,30-10-2018,Pranjali,West Bengal,Kolkata,790.53,65
+B-25894,04-12-2018,Monu,Punjab,Amritsar,4030.77,32
+B-25925,29-12-2018,Shruti,Maharashtra,Mumbai,465.3,34
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,4935.75,92
+B-25772,02-09-2018,Sanjana,Bihar,Patna,3884,95
+B-25957,18-01-2018,Mahima,Madhya Pradesh,Indore,1073.71,72
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,127.06,39
+B-25877,24-11-2018,Dashyam,Gujarat,Surat,4095.76,26
+B-26067,16-03-2018,Tulika,Madhya Pradesh,Bhopal,3563.6,34
+B-25810,10-10-2018,Nripraj,Punjab,Chandigarh,3672.14,54
+B-25868,18-11-2018,Vikash,Goa,Goa,3879.22,3
+B-26023,19-02-2018,Mukesh,Haryana,Chandigarh,462.82,50
+B-25626,23-04-2018,Bhishm,Maharashtra,Mumbai,1856.48,12
+B-25937,05-01-2018,Ankit,Haryana,Chandigarh,667.76,65
+B-25610,09-04-2018,Yogesh,Bihar,Patna,4329.21,54
+B-25777,10-09-2018,Aditi,Madhya Pradesh,Indore,3154.16,5
+B-25738,02-08-2018,Ayush,Punjab,Chandigarh,1721.4,94
+B-25978,27-01-2018,Parin,Maharashtra,Mumbai,411.44,94
+B-25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,1623.81,57
+B-25728,22-07-2018,Ameesha,Maharashtra,Pune,1693.4,17
+B-25749,13-08-2018,Ayush,Maharashtra,Mumbai,3675.07,47
+B-25667,23-05-2018,Anjali,Haryana,Chandigarh,3224.03,23
+B-25657,13-05-2018,Tulika,Madhya Pradesh,Bhopal,4447.34,79
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,2413.85,85
+B-26061,14-03-2018,Anurag,Madhya Pradesh,Indore,686.01,14
+B-25838,29-10-2018,Sanjana,Madhya Pradesh,Indore,3594.9,66
+B-25702,27-06-2018,Shaily,Maharashtra,Mumbai,3827.85,75
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,2850.26,51
+B-25666,22-05-2018,Tanvi,Punjab,Chandigarh,3877.74,38
+B-25675,31-05-2018,Shreya,Madhya Pradesh,Bhopal,2519.6,64
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,2661.39,98
+B-25986,31-01-2018,Shweta,Rajasthan,Udaipur,2194.95,38
+B-25850,05-11-2018,Abhishek,Goa,Goa,224.55,50
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,628.67,98
+B-25813,10-10-2018,Hrisheekesh,Maharashtra,Mumbai,254,82
+B-25825,21-10-2018,Kartik,Madhya Pradesh,Indore,3218.41,30
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,1640.34,79
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,2592,91
+B-25638,26-04-2018,Parth,Maharashtra,Pune,4547.08,51
+B-25747,11-08-2018,Harsh,Madhya Pradesh,Bhopal,1321.53,63
+B-25904,10-12-2018,Swapnil,Delhi,Delhi,2110.88,98
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,3802.2,52
+B-25981,28-01-2018,Amruta,Delhi,Delhi,1221.11,38
+B-25899,08-12-2018,Aishwarya,Uttar Pradesh,Prayagraj,477.2,97
+B-25870,20-11-2018,Pranav,Andhra Pradesh,Hyderabad,1519.78,88
+B-26040,26-02-2018,Sahil,Punjab,Chandigarh,889.98,79
+B-25671,27-05-2018,Mitali,Nagaland,Kohima,4655.52,30
+B-26100,31-03-2018,Hitika,Madhya Pradesh,Indore,4059.79,51
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,3203.68,81
+B-25968,21-01-2018,Paromita,Punjab,Amritsar,4370.16,5
+B-26019,15-02-2018,Jitesh,Uttar Pradesh,Lucknow,4037.99,29
+B-25664,20-05-2018,Pratyusmita,Bihar,Patna,1014.19,4
+B-26033,22-02-2018,Atharv,West Bengal,Kolkata,4473.54,10
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,2742.78,56
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,4056.46,17
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,4490.85,74
+B-25764,28-08-2018,Sanjova,Maharashtra,Pune,1658.22,17
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,639.25,84
+B-25945,11-01-2018,Mhatre,Madhya Pradesh,Indore,1216.88,88
+B-26086,26-03-2018,Mukesh,Haryana,Chandigarh,2192.83,69
+B-25845,03-11-2018,Snel,Kerala ,Thiruvananthapuram,4108.27,34
+B-25817,13-10-2018,Praneet,Maharashtra,Mumbai,4317.58,6
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,134.07,53
+B-25970,22-01-2018,Rhea,Maharashtra,Mumbai,2602.66,66
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,2145.31,77
+B-26057,10-03-2018,Sharda,Kerala ,Thiruvananthapuram,1188.33,43
+B-25885,28-11-2018,Shatayu,Madhya Pradesh,Indore,687.34,75
+B-25897,06-12-2018,Rohan,Madhya Pradesh,Indore,1754.31,23
+B-25756,20-08-2018,Mohan,Maharashtra,Mumbai,4720.26,55
+B-25859,14-11-2018,Chikku,Madhya Pradesh,Indore,1683.69,80
+B-25691,16-06-2018,Akancha,Maharashtra,Mumbai,2642.07,95
+B-25633,26-04-2018,Amit,Sikkim,Gangtok,3544.79,75
+B-25708,01-07-2018,Kishwar,Madhya Pradesh,Indore,1881.79,16
+B-25831,27-10-2018,Mahima,Sikkim,Gangtok,4861.73,8
+B-25856,10-11-2018,Abhijeet,Maharashtra,Mumbai,4815.99,4
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,1333.73,4
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,2536.52,56
+B-26000,06-02-2018,Shubham,Delhi,Delhi,1574.3,25
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,1495.72,67
+B-25745,09-08-2018,Kartik,Gujarat,Ahmedabad,280.75,96
+B-25974,25-01-2018,Manisha,Rajasthan,Udaipur,3086.87,67
+B-25670,25-05-2018,Charika,Goa,Goa,2563.13,27
+B-25848,03-11-2018,Rohan,Himachal Pradesh,Simla,352.25,93
+B-25888,02-12-2018,Rohan,Punjab,Amritsar,1465.37,32
+B-25942,08-01-2018,Ankur,Andhra Pradesh,Hyderabad,4550.5,50
+B-25847,03-11-2018,Aniket,Haryana,Chandigarh,1273.85,61
+B-25636,26-04-2018,Nishi,Maharashtra,Mumbai,809.98,51
+B-25826,22-10-2018,Tanushree,Maharashtra,Mumbai,2498.32,19
+B-26081,22-03-2018,Aarushi,Tamil Nadu,Chennai,4929.69,21
+B-25625,23-04-2018,Pinky,Jammu and Kashmir,Kashmir,1286.07,5
+B-25802,05-10-2018,Yash,Maharashtra,Mumbai,3393.46,82
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,3831.94,92
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,1264.42,42
+B-25806,06-10-2018,Dhanraj,Madhya Pradesh,Indore,3668.26,61
+B-25710,05-07-2018,Megha,Maharashtra,Pune,1902.14,22
+B-25669,25-05-2018,Piyali,Sikkim,Gangtok,3198.3,21
+B-25857,10-11-2018,Anand,Madhya Pradesh,Indore,3204.3,70
+B-25785,15-09-2018,Ayush,West Bengal,Kolkata,2725.3,1
+B-25930,03-01-2018,Monica,Punjab,Chandigarh,542.42,5
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,4192.98,12
+B-26070,18-03-2018,Shruti,Karnataka,Bangalore,1671.82,90
+B-25791,24-09-2018,Avish,Kerala ,Thiruvananthapuram,1013.94,46
+B-25983,30-01-2018,Atul,Delhi,Delhi,299.8,34
+B-25979,27-01-2018,Shivangi,Madhya Pradesh,Indore,2995.38,49
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,3420.07,78
+B-26078,22-03-2018,Kasheen,West Bengal,Kolkata,181.28,90
+B-25787,20-09-2018,Asish,Jammu and Kashmir,Kashmir,2609.26,45
+B-25682,07-06-2018,Krutika,Bihar,Patna,1209.83,27
+B-25962,19-01-2018,Tejeswini,Maharashtra,Pune,3261.35,73
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,954.4,26
+B-25828,24-10-2018,Nikita,Punjab,Chandigarh,3485.59,47
+B-25622,22-04-2018,Monisha,Rajasthan,Jaipur,1995,86
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,4689.98,56
+B-25685,10-06-2018,Sheetal,Madhya Pradesh,Indore,773.85,94
+B-26010,11-02-2018,Kartikay,Bihar,Patna,1771.23,63
+B-26035,23-02-2018,Pinky,Jammu and Kashmir,Kashmir,656.02,48
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,4631,61
+B-25966,21-01-2018,Soumya,Rajasthan,Udaipur,4398.96,81
+B-25832,28-10-2018,Harshita,Maharashtra,Mumbai,1363.91,26
+B-25743,07-08-2018,Aman,Nagaland,Kohima,3333.92,36
+B-25886,28-11-2018,Brijesh,Rajasthan,Udaipur,4104.39,1
+B-25975,25-01-2018,Priyanka,Uttar Pradesh,Prayagraj,2820.48,8
+B-26098,29-03-2018,Pinky,Jammu and Kashmir,Kashmir,2695.29,99
+B-25614,13-04-2018,Vandana,Himachal Pradesh,Simla,1285.08,52
+B-25726,21-07-2018,Kiran,Maharashtra,Mumbai,556.2,79
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,4496.36,47
+B-25609,09-04-2018,Jitesh,Uttar Pradesh,Lucknow,4512.05,56
+B-25741,03-08-2018,Navdeep,Madhya Pradesh,Indore,3202.2,86
+B-25956,17-01-2018,Shreya,Maharashtra,Mumbai,1761.25,14
+B-25689,14-06-2018,Bhaggyasree,Maharashtra,Mumbai,1811.13,90
+B-25939,05-01-2018,Vineet,Sikkim,Gangtok,3657.18,28
+B-25890,04-12-2018,Divyansha,Maharashtra,Mumbai,4495.84,87
+B-25814,10-10-2018,Swapnil,Madhya Pradesh,Indore,4446.72,78
+B-25718,12-07-2018,Anjali,Maharashtra,Mumbai,3921.39,88
+B-25914,18-12-2018,Kajal,Delhi,Delhi,3245.96,2
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,512.29,26
+B-26096,28-03-2018,Atharv,West Bengal,Kolkata,891.98,14
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,4502.92,59
+B-26076,21-03-2018,Jahan,Madhya Pradesh,Bhopal,3071.5,56
+B-25961,18-01-2018,Surbhi,Gujarat,Ahmedabad,145.07,7
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,597.21,3
+B-25642,28-04-2018,Ajay,Karnataka,Bangalore,3351.16,23
+B-25683,08-06-2018,Shreya,Kerala ,Thiruvananthapuram,124.8,18
+B-26016,14-02-2018,Hazel,Karnataka,Bangalore,887.96,38
+B-26034,23-02-2018,Vini,Karnataka,Bangalore,2788.8,99
+B-26056,10-03-2018,Sonal,Bihar,Patna,3490.29,15
+B-25819,15-10-2018,Ankur,Madhya Pradesh,Bhopal,3294.61,64
+B-25715,10-07-2018,Srishti,Jammu and Kashmir,Kashmir,1198.92,89
+B-25933,04-01-2018,Shikhar,Maharashtra,Mumbai,3589.68,28
+B-26014,13-02-2018,Divsha,Rajasthan,Jaipur,1262.52,74
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,1694.46,39
+B-25816,12-10-2018,Mane,Andhra Pradesh,Hyderabad,3757.81,57
+B-25634,26-04-2018,Sanjay,Goa,Goa,3283.2,17
+B-25895,04-12-2018,Sathya,Gujarat,Surat,4261.19,86
+B-25687,11-06-2018,Sanjna,Maharashtra,Mumbai,3322.3,90
+B-25662,17-05-2018,Sweta,Maharashtra,Mumbai,2884.71,44
+B-25635,26-04-2018,Nidhi,Nagaland,Kohima,559.01,25
+B-26060,13-03-2018,Chirag,Maharashtra,Mumbai,1901.81,17
+B-26045,03-03-2018,Nidhi,Nagaland,Kohima,1399.49,13
+B-25770,02-09-2018,Sakshi,Madhya Pradesh,Indore,1295.55,84
+B-25744,08-08-2018,Devendra,Andhra Pradesh,Hyderabad,4867.75,25
+B-25618,18-04-2018,Manju,Andhra Pradesh,Hyderabad,2026.18,68
+B-25958,18-01-2018,Aparajita,West Bengal,Kolkata,4471.03,10
+B-25769,02-09-2018,Surbhi,Maharashtra,Mumbai,3192.58,67
+B-25619,18-04-2018,Ramesh,Gujarat,Ahmedabad,3994.58,18
+B-25688,11-06-2018,Swetha,Madhya Pradesh,Indore,2562.92,100
+B-25829,25-10-2018,Apoorva,Haryana,Chandigarh,2926.83,86
+B-26036,23-02-2018,Bhishm,Maharashtra,Mumbai,2513.34,34
+B-25714,09-07-2018,Stuti,Karnataka,Bangalore,1056.69,8
+B-25989,01-02-2018,Anjali,Delhi,Delhi,3640.02,40
+B-25849,04-11-2018,K,Sikkim,Gangtok,1475.78,83
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,219.15,42
+B-25782,15-09-2018,Aayushi,Maharashtra,Mumbai,3262.81,41
+B-25621,20-04-2018,Deepak,Madhya Pradesh,Bhopal,967.84,6
+B-25996,04-02-2018,Prashant,Delhi,Delhi,4708.25,52
+B-25678,03-06-2018,Bathina,Karnataka,Bangalore,4774.25,26
+B-25727,22-07-2018,Turumella,Madhya Pradesh,Indore,4582.84,64
+B-26018,14-02-2018,Aarushi,Tamil Nadu,Chennai,1913.78,98
+B-25760,24-08-2018,Pooja,Goa,Goa,175.74,59
+B-25804,05-10-2018,Sudheer,Karnataka,Bangalore,4648.76,56
+B-25754,18-08-2018,Akshay,Bihar,Patna,2198.1,59
+B-26020,16-02-2018,Yogesh,Bihar,Patna,4836.61,70
+B-25640,27-04-2018,Paridhi,Rajasthan,Jaipur,4821.74,33
+B-25789,22-09-2018,Akshay,Uttar Pradesh,Lucknow,4279.75,53
+B-26072,20-03-2018,Sweta,Maharashtra,Mumbai,1542.8,22
+B-26007,09-02-2018,Shubham,Jammu and Kashmir,Kashmir,1986.98,21
+B-26087,26-03-2018,Vandana,Himachal Pradesh,Simla,4270.57,70
+B-25617,17-04-2018,Sagar,Nagaland,Kohima,1652.92,70
+B-25984,30-01-2018,Kajal,Delhi,Delhi,930.51,4
+B-25767,31-08-2018,Ashmeet,West Bengal,Kolkata,2828.33,94
+B-25987,31-01-2018,Manjiri,Delhi,Delhi,4687.16,75
+B-25840,31-10-2018,Sneha,Karnataka,Bangalore,3510.55,62
+B-25663,19-05-2018,Pournamasi,Madhya Pradesh,Indore,2893.3,62
+B-26030,21-02-2018,Sarita,Maharashtra,Pune,576.16,94
+B-25947,13-01-2018,Chetan,Gujarat,Ahmedabad,3113.54,95
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,4951.26,24
+B-26009,10-02-2018,Komal,Uttar Pradesh,Lucknow,786.41,55
+B-25876,24-11-2018,Bhosale,Punjab,Amritsar,2639.82,9
+B-25915,19-12-2018,Sukruta,Punjab,Amritsar,4399.13,3
+B-25795,24-09-2018,Sukant,Sikkim,Gangtok,3729.77,31
+B-26002,08-02-2018,Harsh,Delhi,Delhi,3515.38,40
+B-25645,01-05-2018,Yaanvi,Madhya Pradesh,Indore,3542.17,36
+B-25837,29-10-2018,Palak,Maharashtra,Mumbai,1861.51,24
+B-25612,12-04-2018,Shrichand,Punjab,Chandigarh,1538.6,95
+B-25812,10-10-2018,Kshitij,Madhya Pradesh,Indore,4065.87,6
+B-25843,03-11-2018,Mrunal,Maharashtra,Mumbai,4069.56,66
+B-26026,19-02-2018,Kanak,Goa,Goa,4348.65,84
+B-25773,06-09-2018,Shreya,Kerala ,Thiruvananthapuram,4574.88,92
+B-25875,24-11-2018,Divyeshkumar,Uttar Pradesh,Prayagraj,2605.58,75
+B-25660,16-05-2018,Shruti,Karnataka,Bangalore,2557.43,4
+B-25918,22-12-2018,Karandeep,Madhya Pradesh,Indore,4011.65,79
+B-25971,22-01-2018,Mitali,Madhya Pradesh,Indore,3284.82,6
+B-26063,15-03-2018,Farah,Nagaland,Kohima,3539.64,94
+B-25867,17-11-2018,Ankit,Sikkim,Gangtok,3999.38,51
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,4461.03,62
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,1756.18,57
+B-25748,12-08-2018,Nitant,Rajasthan,Jaipur,1940.36,66
+B-25766,30-08-2018,Surabhi,Rajasthan,Jaipur,560.51,79
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,2933.57,75
+B-26058,11-03-2018,Aditya,Punjab,Chandigarh,276.12,8
+B-25808,08-10-2018,Apsingekar,Bihar,Patna,2381.43,26
+B-25900,09-12-2018,Anand,Punjab,Amritsar,2758.96,51
+B-26084,25-03-2018,Anita,Kerala ,Thiruvananthapuram,1504.05,45
+B-25652,08-05-2018,Tushina,Goa,Goa,2995.08,44
+B-26008,09-02-2018,Kalyani,Tamil Nadu,Chennai,249.45,5
+B-25799,01-10-2018,Divyansh,Gujarat,Ahmedabad,283.01,70
+B-25927,31-12-2018,Shreya,Uttar Pradesh,Lucknow,4130.74,26
+B-25985,31-01-2018,Ginny,Madhya Pradesh,Indore,1864.93,68
+B-25994,03-02-2018,Omkar,Delhi,Delhi,722.6,19
+B-25620,20-04-2018,Sarita,Maharashtra,Pune,2658.99,84
+B-25712,07-07-2018,Adhvaita,Rajasthan,Jaipur,3872.97,97
+B-25976,25-01-2018,Piyam,Punjab,Amritsar,1157.52,20
+B-26068,16-03-2018,Shefali,Rajasthan,Jaipur,3152.16,12
+B-25721,16-07-2018,Anchal,Haryana,Chandigarh,518.2,47
+B-25863,15-11-2018,Manibalan,Kerala ,Thiruvananthapuram,353.24,1
+B-25991,03-02-2018,Mansi,Madhya Pradesh,Indore,2703.64,90
+B-25737,01-08-2018,Shubham,Madhya Pradesh,Indore,2749.11,14
+B-26043,01-03-2018,Amit,Sikkim,Gangtok,3223.41,64
+B-25977,27-01-2018,Aayushi,Gujarat,Surat,3657.85,38
+B-25908,12-12-2018,Pradeep,Delhi,Delhi,4881.68,37
+B-25941,07-01-2018,Jaideep,Nagaland,Kohima,2629.87,11
+B-25794,24-09-2018,Aditya,Himachal Pradesh,Simla,1682.49,100
+B-26041,27-02-2018,Ritu,Haryana,Chandigarh,3996.41,77
+B-25695,18-06-2018,Suhani,West Bengal,Kolkata,1427.08,3
+B-25960,18-01-2018,Shreya,Andhra Pradesh,Hyderabad,2250.96,33
+B-26037,23-02-2018,Hitika,Madhya Pradesh,Indore,484.44,6
+B-25921,25-12-2018,Sandra,Punjab,Amritsar,224.22,50
+B-25944,10-01-2018,Syed,Maharashtra,Pune,4816.98,10
+B-25724,19-07-2018,Sheetal,Madhya Pradesh,Indore,4196.3,5
+B-26024,19-02-2018,Vandana,Himachal Pradesh,Simla,3510.27,23
+B-25694,18-06-2018,Subhasmita,Rajasthan,Jaipur,2103.87,10
+B-25665,21-05-2018,Chayanika,Kerala ,Thiruvananthapuram,949.14,44
+B-26004,08-02-2018,Nandita,Rajasthan,Jaipur,866.54,2
+B-25611,11-04-2018,Anita,Kerala ,Thiruvananthapuram,1326.19,13
+B-25901,10-12-2018,Suraj,Gujarat,Surat,2791.21,40
+B-25623,22-04-2018,Atharv,West Bengal,Kolkata,3601.52,2
+B-25713,08-07-2018,Raksha,West Bengal,Kolkata,3334.97,84
+B-26091,27-03-2018,Manju,Andhra Pradesh,Hyderabad,1471.68,65
+B-25604,03-04-2018,Divsha,Rajasthan,Jaipur,4778.84,63
+B-25827,23-10-2018,Sheetal,Madhya Pradesh,Indore,3715.69,73
+B-25835,29-10-2018,Moumita,Gujarat,Ahmedabad,2816.33,17
+B-26025,19-02-2018,Bhavna,Sikkim,Gangtok,3097.43,9
+B-25809,09-10-2018,Suman,Kerala ,Thiruvananthapuram,2156.04,75
+B-25905,11-12-2018,Bhargav,Delhi,Delhi,1313.88,15
+B-25948,13-01-2018,Mukund,Maharashtra,Pune,1844.27,24
+B-26094,27-03-2018,Deepak,Madhya Pradesh,Bhopal,3813.45,38
+B-25949,13-01-2018,Shantanu,Maharashtra,Mumbai,170.53,35
+B-26001,07-02-2018,Patil,Delhi,Delhi,668.76,94
+B-25771,02-09-2018,Vaibhavi,Uttar Pradesh,Lucknow,325.41,95
+B-25659,15-05-2018,Sanskriti,West Bengal,Kolkata,299.57,49
+B-25924,28-12-2018,Prajakta,Karnataka,Bangalore,4291.76,69
+B-25883,27-11-2018,Saptadeep,Gujarat,Surat,3547.92,62
+B-25946,12-01-2018,Saurabh,Andhra Pradesh,Hyderabad,2423.45,60
+B-26065,16-03-2018,Nida,Madhya Pradesh,Indore,579.39,50
+B-26083,24-03-2018,Yogesh,Bihar,Patna,2508.92,78
+B-25725,20-07-2018,Anisha,Nagaland,Kohima,2420.01,75
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,948.69,9
+B-25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,2225.87,34
+B-25692,17-06-2018,Rashmi,Madhya Pradesh,Indore,2052.67,76
+B-25992,03-02-2018,Gaurav,Rajasthan,Udaipur,3117.67,99
+B-25765,29-08-2018,Meghana,Madhya Pradesh,Bhopal,3211.96,35
+B-25892,04-12-2018,Aditi,Rajasthan,Udaipur,321.99,1
+B-26089,26-03-2018,Kanak,Goa,Goa,1935.6,40
+B-25780,13-09-2018,Teena,Andhra Pradesh,Hyderabad,3166.71,64
+B-25684,09-06-2018,Samiksha,Maharashtra,Mumbai,2565.37,22
+B-25739,03-08-2018,Daksh,Haryana,Chandigarh,4296.8,60
+B-25731,26-07-2018,Akash,West Bengal,Kolkata,3327.6,64
+B-25648,04-05-2018,Aditya,Punjab,Chandigarh,898.38,93
+B-26038,24-02-2018,Pooja,Bihar,Patna,445.79,72
+B-25700,25-06-2018,Shubhi,Maharashtra,Mumbai,3247.85,11
+B-26015,14-02-2018,Kasheen,West Bengal,Kolkata,229.91,14
+B-25704,29-06-2018,Riya,Maharashtra,Mumbai,2970.3,60
+B-25811,10-10-2018,Utsav,Maharashtra,Mumbai,4707.13,30
+B-25821,16-10-2018,Ajay,West Bengal,Kolkata,2919.82,35
+B-25874,24-11-2018,Megha,Rajasthan,Udaipur,2002.03,85
+B-25668,24-05-2018,Rhea,Himachal Pradesh,Simla,3252.11,37
+B-25800,01-10-2018,Ishit,Maharashtra,Pune,2345.44,5
+B-25928,01-01-2018,Smriti,Bihar,Patna,2773.52,83
+B-26021,17-02-2018,Anita,Kerala ,Thiruvananthapuram,4713.18,78
+B-26064,16-03-2018,Ankita,Maharashtra,Mumbai,1991.9,26
+B-25882,26-11-2018,Masurkar,Punjab,Amritsar,4809.83,62
+B-25891,04-12-2018,Shivani,Madhya Pradesh,Indore,4536.22,4
+B-25820,16-10-2018,Dheeraj,Rajasthan,Jaipur,1059.38,89
+B-25889,03-12-2018,Abhishek,Gujarat,Surat,439.87,42
+B-25871,21-11-2018,Gunjal,Gujarat,Surat,593.81,89
+B-25637,26-04-2018,Ashmi,Madhya Pradesh,Indore,189.29,18
+B-25616,15-04-2018,Kanak,Goa,Goa,562.77,40
+B-25972,23-01-2018,Jesslyn,Rajasthan,Udaipur,3446.73,72
+B-25805,05-10-2018,Ankit,Maharashtra,Mumbai,448.82,39
+B-25860,15-11-2018,Akshay,Tamil Nadu,Chennai,1662.98,14
+B-26080,22-03-2018,Sonakshi,Jammu and Kashmir,Kashmir,4239.89,32
+B-25807,07-10-2018,Vipul,Uttar Pradesh,Lucknow,214.03,51
+B-25734,29-07-2018,Pranav,Madhya Pradesh,Indore,4090.9,38
+B-25880,24-11-2018,Apoorv,Rajasthan,Udaipur,1481.09,97
+B-25934,04-01-2018,Rahul,Madhya Pradesh,Indore,679.01,23
+B-25913,17-12-2018,Geetanjali,Delhi,Delhi,3514.01,63
+B-25912,16-12-2018,Preksha,Delhi,Delhi,3181.82,15
+B-25824,20-10-2018,Shyam,Madhya Pradesh,Indore,4399.61,97
+B-25711,06-07-2018,Sakshi,Madhya Pradesh,Bhopal,3701.85,25
+B-25864,15-11-2018,Aromal,Maharashtra,Mumbai,4037.06,17
+B-25917,21-12-2018,Sanjay,Maharashtra,Mumbai,1481.97,97
+B-26049,05-03-2018,Lisha,Madhya Pradesh,Bhopal,969.45,66
+B-25920,24-12-2018,Jayanti,Uttar Pradesh,Prayagraj,3778.01,78
+B-25699,24-06-2018,Kritika,Uttar Pradesh,Lucknow,4053.49,53
+B-25735,30-07-2018,Arindam,Uttar Pradesh,Lucknow,4953.48,51
+B-25701,26-06-2018,Maithilee,Madhya Pradesh,Indore,2121.83,39
+B-26092,27-03-2018,Ramesh,Gujarat,Ahmedabad,1922.89,51
+B-26082,23-03-2018,Jitesh,Uttar Pradesh,Lucknow,3904.42,70
+B-25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,1769.94,6
+B-25846,03-11-2018,Soodesh,Punjab,Chandigarh,4660.71,67
+B-26011,12-02-2018,Bharat,Gujarat,Ahmedabad,4306.22,7
+B-25631,24-04-2018,Ritu,Haryana,Chandigarh,2202.07,51
+B-25606,06-04-2018,Hazel,Karnataka,Bangalore,3779.27,72
+B-25746,10-08-2018,Shivam,Maharashtra,Pune,3797.26,42
+B-26005,08-02-2018,Parnavi,West Bengal,Kolkata,605.31,64
+B-25844,03-11-2018,Swati,Madhya Pradesh,Indore,4522.51,15
+B-25869,19-11-2018,Parakh,Nagaland,Kohima,2575.74,29
+B-26066,16-03-2018,Priyanka,Maharashtra,Pune,4149.64,33
+B-25865,15-11-2018,Arun,Madhya Pradesh,Indore,1668.24,94
+B-26039,25-02-2018,Hemant,Kerala ,Thiruvananthapuram,4488.06,27
+B-25916,20-12-2018,Utkarsh,Gujarat,Surat,2007.09,36
+B-26090,27-03-2018,Sagar,Nagaland,Kohima,153.1,29
+B-25988,31-01-2018,Nirja,Delhi,Delhi,4536.37,38
+B-25906,11-12-2018,Abhijit,Delhi,Delhi,547.3,57
+B-26017,14-02-2018,Sonakshi,Jammu and Kashmir,Kashmir,1664.64,97
+B-25644,30-04-2018,Mayank,Maharashtra,Mumbai,4755.3,27
+B-25679,04-06-2018,Avni,Maharashtra,Mumbai,4757.98,55
+B-25723,18-07-2018,Wale,Maharashtra,Mumbai,2909.85,33
+B-25605,05-04-2018,Kasheen,West Bengal,Kolkata,3196,68
+B-25792,24-09-2018,Abhishek,Maharashtra,Mumbai,2297.38,86
+B-25680,04-06-2018,Aayushi,Madhya Pradesh,Indore,1536.73,66
+B-25931,04-01-2018,Sidharth,Maharashtra,Mumbai,1710.46,10
+B-25932,04-01-2018,Bhutekar,Madhya Pradesh,Indore,3395.34,5
+B-25990,02-02-2018,Mugdha,Delhi,Delhi,3786.64,74
+B-25615,15-04-2018,Bhavna,Sikkim,Gangtok,3978.74,97
+B-26031,22-02-2018,Deepak,Madhya Pradesh,Bhopal,3969.13,38
+B-25801,01-10-2018,Aryan,Madhya Pradesh,Bhopal,546.91,13
+B-25833,29-10-2018,Krishna,Madhya Pradesh,Indore,2522.66,31
+B-26077,22-03-2018,Divsha,Rajasthan,Jaipur,382.04,47
+B-25936,05-01-2018,Nikhil,Punjab,Chandigarh,2792.69,100
+B-25938,05-01-2018,Shikhar,Himachal Pradesh,Simla,2263.5,88
+B-25716,11-07-2018,Surabhi,Tamil Nadu,Chennai,4449.75,52
+B-25740,03-08-2018,Rane,Maharashtra,Mumbai,1819.48,56
+B-25763,27-08-2018,Noshiba,Gujarat,Ahmedabad,673.63,15
+B-25872,22-11-2018,Saurabh,Maharashtra,Mumbai,800.66,29
+B-25879,24-11-2018,Siddharth,Madhya Pradesh,Indore,3831.4,8
+B-25926,30-12-2018,Dipali,Madhya Pradesh,Indore,3129.27,5
+B-26074,21-03-2018,Bharat,Gujarat,Ahmedabad,595.5,29
+B-25627,23-04-2018,Hitika,Madhya Pradesh,Indore,512.12,47
+B-25940,06-01-2018,Vivek,Goa,Goa,3534.75,68
+B-26047,04-03-2018,Ashmi,Madhya Pradesh,Indore,456.54,76
+B-26069,17-03-2018,Sanskriti,West Bengal,Kolkata,4127.11,45
+B-26027,20-02-2018,Sagar,Nagaland,Kohima,3560.59,2
+B-25963,19-01-2018,Pratiksha,Maharashtra,Mumbai,498.61,27
+B-25922,26-12-2018,Akshata,Gujarat,Surat,515.7,95
+B-25866,16-11-2018,Komal,Himachal Pradesh,Simla,4934.53,36
+B-25607,06-04-2018,Sonakshi,Jammu and Kashmir,Kashmir,1933.93,36
+B-25775,08-09-2018,Duhita,Haryana,Chandigarh,1916.15,26
+B-25998,04-02-2018,Anmol,Rajasthan,Udaipur,4082.72,43
+B-26062,15-03-2018,Tushina,Goa,Goa,4741.52,27
+B-25722,17-07-2018,Inderpreet,Himachal Pradesh,Simla,4931.41,69
+B-25776,09-09-2018,Mousam,Maharashtra,Mumbai,3791.55,20
+B-26032,22-02-2018,Monisha,Rajasthan,Jaipur,1943.67,11
+B-25705,30-06-2018,Shweta,Madhya Pradesh,Indore,509.15,74
+B-25628,24-04-2018,Pooja,Bihar,Patna,3908.02,38
+B-25733,28-07-2018,Dhirajendu,Maharashtra,Mumbai,2836.18,6
+B-25647,03-05-2018,Sharda,Kerala ,Thiruvananthapuram,2178.69,72
+B-25790,23-09-2018,Sajal,Bihar,Patna,4541.14,23
+B-25709,01-07-2018,Aakanksha,Madhya Pradesh,Indore,644.87,47
+B-25911,15-12-2018,Phalguni,Madhya Pradesh,Bhopal,2513.86,90
+B-25774,07-09-2018,Snehal,Punjab,Chandigarh,155.63,46
+B-26042,28-02-2018,Manish,Himachal Pradesh,Simla,2396.44,12
+B-25815,10-10-2018,Harsh,Nagaland,Kohima,375.89,90
+B-25822,18-10-2018,Tejas,Karnataka,Bangalore,682.21,13
+B-26075,21-03-2018,Pearl,Maharashtra,Pune,675.88,62
+B-25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,3281.13,82
+B-26046,04-03-2018,Nishi,Maharashtra,Mumbai,3755.62,89
+B-25690,15-06-2018,Gunjan,Madhya Pradesh,Indore,2958.51,97
+B-25706,01-07-2018,Swetlana,Goa,Goa,4814.65,60
+B-25736,31-07-2018,Akshat,Maharashtra,Mumbai,1936.87,43
+B-25720,15-07-2018,Namrata,Punjab,Chandigarh,1499.99,76
+B-25907,11-12-2018,Jaydeep,Madhya Pradesh,Bhopal,4356.14,100
+B-25719,12-07-2018,Rashmi,Madhya Pradesh,Indore,1195.62,68
+B-26013,13-02-2018,Jahan,Madhya Pradesh,Bhopal,4819.79,5
+B-26044,02-03-2018,Sanjay,Goa,Goa,159.56,37
+B-25649,05-05-2018,Rachna,Haryana,Chandigarh,4852.41,72
+B-25658,14-05-2018,Shefali,Rajasthan,Jaipur,311.48,92
+B-25672,28-05-2018,Akanksha,Andhra Pradesh,Hyderabad,4466.6,31
+B-25624,22-04-2018,Vini,Karnataka,Bangalore,2685.74,9
+B-25884,28-11-2018,Sumeet,Maharashtra,Mumbai,4965.53,51
+B-25641,27-04-2018,Parishi,West Bengal,Kolkata,461.6,29
+B-25841,01-11-2018,Ashvini,Maharashtra,Mumbai,2813.89,78
+B-25980,27-01-2018,Shweta,Rajasthan,Udaipur,4849.58,40
+B-26012,13-02-2018,Pearl,Maharashtra,Pune,2663.18,41
+B-26029,20-02-2018,Ramesh,Gujarat,Ahmedabad,3184.05,86
+B-26071,19-03-2018,Subhashree,Jammu and Kashmir,Kashmir,3509.17,11
+B-25646,01-05-2018,Sonal,Bihar,Patna,2327.25,23
+B-25677,02-06-2018,Ekta,West Bengal,Kolkata,3175.03,1
+B-25759,23-08-2018,Soumya,Sikkim,Gangtok,2963.14,46
+B-26059,12-03-2018,Rachna,Haryana,Chandigarh,4515.67,21
+B-25632,25-04-2018,Manish,Himachal Pradesh,Simla,322.69,90
+B-26079,22-03-2018,Hazel,Karnataka,Bangalore,1476.72,36
+B-25674,28-05-2018,Mahima,Maharashtra,Pune,4757.02,54
+B-25965,21-01-2018,Saloni,West Bengal,Kolkata,4462.29,87
+B-25732,27-07-2018,Anubhaw,Karnataka,Bangalore,2332.72,57
+B-25834,29-10-2018,Ananya,Andhra Pradesh,Hyderabad,3138.65,1
+B-25784,15-09-2018,Rohit,Rajasthan,Jaipur,1459.17,63
+B-25982,29-01-2018,Hemangi,Delhi,Delhi,1021.79,54
+B-25788,21-09-2018,Dinesh,Tamil Nadu,Chennai,2372.12,55
+B-25742,03-08-2018,Ashwin,Goa,Goa,1831.43,40
+B-26088,26-03-2018,Bhavna,Sikkim,Gangtok,2959.91,15
+B-25707,01-07-2018,Shivani,Maharashtra,Mumbai,480.9,21
+B-25758,22-08-2018,Shubham,Himachal Pradesh,Simla,4874.53,47
+B-26095,28-03-2018,Monisha,Rajasthan,Jaipur,4932.43,73

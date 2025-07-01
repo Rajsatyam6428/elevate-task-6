@@ -1,0 +1,174 @@
+order_year,order_month,total_revenue,order_volume,Category,PaymentMode
+2018,1,1640.34,1,Furniture,"Debit Card"
+2018,1,11297.31,6,Furniture,"Credit Card"
+2018,1,11317.25,5,Electronics,EMI
+2018,1,14246.77,6,Furniture,EMI
+2018,1,14260.54,7,Furniture,UPI
+2018,1,14347.76,7,Electronics,"Debit Card"
+2018,1,19232.45,10,Clothing,EMI
+2018,1,19305.61,4,Electronics,"Credit Card"
+2018,1,20411.96,5,Clothing,"Credit Card"
+2018,1,27648.17,9,Electronics,UPI
+2018,1,31865.66,16,Furniture,COD
+2018,1,37586.3,15,Electronics,COD
+2018,1,43610.08,15,Clothing,"Debit Card"
+2018,1,58478.21,21,Clothing,UPI
+2018,1,111055.95,30,Clothing,COD
+2018,2,5171.56,3,Furniture,"Debit Card"
+2018,2,5221.32,2,Furniture,EMI
+2018,2,7838.77,4,Electronics,"Debit Card"
+2018,2,8945.34,4,Clothing,EMI
+2018,2,10105.63,4,Furniture,"Credit Card"
+2018,2,11312.13,7,Electronics,"Credit Card"
+2018,2,11373.24,4,Electronics,UPI
+2018,2,11889.26,4,Furniture,UPI
+2018,2,14156.36,6,Clothing,"Credit Card"
+2018,2,33382.74,10,Electronics,COD
+2018,2,38777.43,15,Clothing,UPI
+2018,2,40818.69,14,Furniture,COD
+2018,2,45799.44,16,Clothing,"Debit Card"
+2018,2,100726.81,27,Clothing,COD
+2018,3,5281.61,2,Furniture,EMI
+2018,3,11669.06,4,Electronics,"Credit Card"
+2018,3,12288.61,4,Furniture,"Debit Card"
+2018,3,12442.55,4,Furniture,"Credit Card"
+2018,3,12541.88,4,Electronics,UPI
+2018,3,16478.88,5,Electronics,"Debit Card"
+2018,3,19617.49,7,Clothing,EMI
+2018,3,27315.67,10,Clothing,"Credit Card"
+2018,3,29579.32,8,Electronics,EMI
+2018,3,34446.25,8,Furniture,COD
+2018,3,41309.27,17,Electronics,COD
+2018,3,62004.97,18,Clothing,"Debit Card"
+2018,3,111170.03,27,Clothing,UPI
+2018,3,190578.05,39,Clothing,COD
+2018,4,3283.2,1,Furniture,UPI
+2018,4,3569.56,1,Electronics,EMI
+2018,4,4909.9,3,Furniture,EMI
+2018,4,7325.96,2,Furniture,"Credit Card"
+2018,4,8455.1,2,Furniture,"Debit Card"
+2018,4,8481.47,4,Electronics,"Credit Card"
+2018,4,9303.61,3,Electronics,UPI
+2018,4,12153.02,4,Electronics,"Debit Card"
+2018,4,19668.21,9,Clothing,UPI
+2018,4,21172.81,6,Clothing,EMI
+2018,4,21881.97,9,Electronics,COD
+2018,4,23033.47,8,Clothing,"Credit Card"
+2018,4,23275.07,9,Furniture,COD
+2018,4,30571.68,11,Clothing,"Debit Card"
+2018,4,67958.7,16,Clothing,COD
+2018,5,3512.36,1,Furniture,"Debit Card"
+2018,5,4484.65,1,Electronics,"Credit Card"
+2018,5,5254.23,3,Clothing,EMI
+2018,5,7066.05,2,Furniture,"Credit Card"
+2018,5,7688.33,2,Furniture,EMI
+2018,5,12054.66,4,Electronics,"Debit Card"
+2018,5,15398.24,5,Electronics,EMI
+2018,5,16585.71,6,Furniture,UPI
+2018,5,17552.07,6,Furniture,COD
+2018,5,18256.55,5,Clothing,"Credit Card"
+2018,5,21039.78,7,Clothing,"Debit Card"
+2018,5,24786.46,6,Electronics,UPI
+2018,5,37241.35,8,Electronics,COD
+2018,5,56254.23,15,Clothing,UPI
+2018,5,92593.22,14,Clothing,COD
+2018,6,124.8,1,Furniture,EMI
+2018,6,1531.51,1,Furniture,"Credit Card"
+2018,6,1694.12,1,Electronics,"Credit Card"
+2018,6,3076.97,1,Electronics,EMI
+2018,6,4601.7,2,Furniture,"Debit Card"
+2018,6,7223.77,4,Electronics,"Debit Card"
+2018,6,12522.87,4,Clothing,EMI
+2018,6,13032.55,4,Furniture,COD
+2018,6,15160.2,5,Clothing,"Credit Card"
+2018,6,15771.04,6,Electronics,UPI
+2018,6,17290.72,6,Furniture,UPI
+2018,6,25516.15,7,Clothing,"Debit Card"
+2018,6,32508.02,12,Electronics,COD
+2018,6,34926.17,9,Clothing,UPI
+2018,6,106751.79,20,Clothing,COD
+2018,7,644.87,1,Furniture,"Credit Card"
+2018,7,1198.92,1,Electronics,"Debit Card"
+2018,7,1693.4,1,Electronics,EMI
+2018,7,1881.79,1,Clothing,EMI
+2018,7,4090.9,1,Electronics,UPI
+2018,7,5793.31,3,Furniture,UPI
+2018,7,7546.08,3,Clothing,"Debit Card"
+2018,7,7729.85,4,Electronics,COD
+2018,7,9273.23,4,Electronics,"Credit Card"
+2018,7,9744.92,2,Furniture,"Debit Card"
+2018,7,9852.83,5,Clothing,"Credit Card"
+2018,7,15715.47,6,Furniture,COD
+2018,7,34253.7,9,Clothing,UPI
+2018,7,47194.92,13,Clothing,COD
+2018,8,3326,3,Furniture,"Credit Card"
+2018,8,4617.18,1,Electronics,"Credit Card"
+2018,8,5182.51,3,Furniture,"Debit Card"
+2018,8,5414.22,3,Clothing,EMI
+2018,8,9812.18,4,Electronics,UPI
+2018,8,12261.45,6,Clothing,"Debit Card"
+2018,8,12612.44,3,Electronics,EMI
+2018,8,14650.59,6,Clothing,"Credit Card"
+2018,8,15018.49,5,Furniture,UPI
+2018,8,18092.25,6,Electronics,"Debit Card"
+2018,8,20111.73,9,Furniture,COD
+2018,8,20879.68,6,Electronics,COD
+2018,8,56005.89,12,Clothing,UPI
+2018,8,89208.59,17,Clothing,COD
+2018,9,3002.83,1,Furniture,EMI
+2018,9,3166.71,1,Electronics,"Debit Card"
+2018,9,3422.66,2,Electronics,"Credit Card"
+2018,9,4484.41,3,Clothing,EMI
+2018,9,6653.95,3,Furniture,"Credit Card"
+2018,9,7613.77,2,Electronics,EMI
+2018,9,8323.55,5,Clothing,"Credit Card"
+2018,9,11835.72,4,Electronics,COD
+2018,9,12780.09,6,Furniture,UPI
+2018,9,13752.81,5,Electronics,UPI
+2018,9,17453.33,6,Clothing,"Debit Card"
+2018,9,23173.2,7,Furniture,COD
+2018,9,29163.42,8,Clothing,UPI
+2018,9,64259.15,14,Clothing,COD
+2018,10,3045.46,1,Furniture,EMI
+2018,10,3510.55,1,Furniture,"Credit Card"
+2018,10,3737.33,2,Electronics,"Credit Card"
+2018,10,8748.76,4,Furniture,UPI
+2018,10,8774.74,3,Electronics,EMI
+2018,10,9398.38,5,Clothing,"Debit Card"
+2018,10,10566.87,5,Clothing,"Credit Card"
+2018,10,13053.66,3,Electronics,UPI
+2018,10,13843.5,4,Electronics,"Debit Card"
+2018,10,17706.28,9,Furniture,COD
+2018,10,17840.98,7,Electronics,COD
+2018,10,20807.29,8,Clothing,EMI
+2018,10,39636.22,12,Clothing,UPI
+2018,10,99917.22,22,Clothing,COD
+2018,11,401.72,1,Electronics,EMI
+2018,11,6018.73,2,Electronics,"Debit Card"
+2018,11,6095.75,2,Furniture,"Credit Card"
+2018,11,6319.07,4,Furniture,"Debit Card"
+2018,11,11392.52,5,Electronics,"Credit Card"
+2018,11,13336.36,5,Furniture,UPI
+2018,11,16453.46,7,Clothing,"Debit Card"
+2018,11,19145.26,7,Clothing,EMI
+2018,11,20585.55,4,Electronics,UPI
+2018,11,21178.54,9,Electronics,COD
+2018,11,22650.36,10,Furniture,COD
+2018,11,26170.36,13,Clothing,"Credit Card"
+2018,11,59302.19,13,Clothing,UPI
+2018,11,137297.78,28,Clothing,COD
+2018,12,418.75,1,Furniture,"Credit Card"
+2018,12,2526.36,2,Electronics,EMI
+2018,12,4351.83,3,Furniture,"Debit Card"
+2018,12,6554.67,4,Electronics,UPI
+2018,12,7946.34,4,Furniture,UPI
+2018,12,8428.31,3,Electronics,"Debit Card"
+2018,12,9108.61,6,Clothing,EMI
+2018,12,9383.78,4,Electronics,"Credit Card"
+2018,12,9544.55,6,Clothing,"Credit Card"
+2018,12,11524.68,5,Furniture,COD
+2018,12,11773.24,3,Furniture,EMI
+2018,12,18168.65,9,Clothing,"Debit Card"
+2018,12,22572,11,Electronics,COD
+2018,12,38414.91,12,Clothing,UPI
+2018,12,62247.51,19,Clothing,COD
