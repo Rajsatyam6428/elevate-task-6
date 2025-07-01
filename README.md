@@ -4,7 +4,7 @@
 Analyzed monthly trends in sales using SQL queries, focusing on **monthly revenue** and **order volume**.
 
 ## 📁 Dataset
-Table: `orders`  
+Table: `orders`,`details`
 Columns: `Order Date`, `amount`, `Order id`, `Product id`
 
 ## 🔍 Tasks Performed
